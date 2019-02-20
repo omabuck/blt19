@@ -1,0 +1,75 @@
+Übergeordnetes Ziel: gemeinnützigen SatzungsGenerator erstellen 
+
+Satzung des $Vereinsname$  
+§ 1 Name, Sitz, Rechtsform
+(1) Der Verein führt den Namen “$Vereinsname$ e.V.“
+(2) Der Verein hat seinen Sitz in $Vereinssitz$ und ist in das Vereinsregister einzutrage.; nach der Eintragung führt er den Zusatz „e. V.“.
+
+§ 2 Zweck des Vereins
+(1) Zweck des Vereins ist $AO-Zweck$
+(2) Dieser Zweck wird insbesondere verwirklicht durch $Konkretisierung-Zweck$.
+
+§ 3 Gemeinnützigkeit
+(1) Der Verein verfolgt ausschließlich und unmittelbar $AO-Zweck$e Zwecke im Sinne der Abgabenordnung. Der Verein ist selbstlos tätig und verfolgt nicht in erster Linie eigenwirtschaftliche Zwecke.
+(2) Die Mittel des Vereins dürfen nur für satzungsmäßige Zwecke verwendet werden. Die Mitglieder erhalten keine Anteile am Überschuss und auch keine sonstigen Zuwendungen. Vereinsämter sind ehrenamtlich auszuüben.
+(3) Es darf keine Person durch Ausgaben, die den Zwecken des Vereins fremd sind, oder durch unverhältnismäßig hohe Vergütungen begünstigt werden.
+
+§ 4 Mitgliedschaft
+(1) Mitglied des Vereins können volljährige natürliche und juristische Personen sowie Personengesellschaften werden.
+(2) Der Erwerb der Mitgliedschaft erfolgt durch schriftlichen Antrag an den Vorstand, der über die Aufnahme entscheidet.
+(3) Gegen den ablehnenden Bescheid des Vorstands, der mit Gründen zu versehen ist, kann der Antragsteller Beschwerde erheben. Die Beschwerde ist innerhalb eines Monats ab Zugang des ablehnenden Bescheids schriftlich beim Vorstand einzulegen. Über die Beschwerde entscheidet die nächste ordentliche Mitgliederversammlung.
+
+§ 5 Erlöschen der Mitgliedschaft
+(1) Die Mitgliedschaft erlischt durch Tod, Erlöschen der Rechtspersönlichkeit, Austritt oder Ausschluss aus dem Verein.
+(2) Der Austritt erfolgt durch schriftliche Erklärung gegenüber dem Vorstand. Der Austritt kann nur zum Ende eines Kalenderjahres erklärt werden, wobei eine Kündigungsfrist von drei Monaten zum Jahresende einzuhalten ist.
+(3) Ein Mitglied kann durch den Vorstand, der hierüber Beschluss zu fassen hat, aus dem Verein ausgeschlossen werden, wenn das Mitglied
+a) einen Jahresbeitrag trotz schriftlicher Mahnung mit einer Fristsetzung von mindestens vier Wochen nicht bezahlt hat;
+b) den Verein geschädigt oder sonst gegen seine Interessen schwerwiegend verstoßen hat;
+c) in seiner Person einen sonstigen wichtigen Grund verwirklicht.
+(4) Vor Beschlussfassung über die Ausschließung ist dem auszuschließenden Mitglied Gelegenheit zur Stellungnahme zu geben. Der Ausschließungsbeschluss ist schriftlich zu fassen und zu begründen und dem Mitglied zuzusenden. Gegen die Ausschließung kann das auszuschließende Mitglied die nächste anstehende Mitgliederversammlung anrufen, die über den endgültigen Ausschluss entscheidet. Bis zur Entscheidung der Mitgliederversammlung ruhen in diesem Fall die Mitgliedschaftsrechte des auszuschließenden Mitglieds.
+
+§ 6 Beiträge
+$Beitragsoptionen$
+(2) Für das Jahr des Vereinsbeitritts ist der volle Jahresbeitrag zu bezahlen. Die Festsetzung der Fälligkeit und Zahlungsweise des Beitrages obliegt dem Vorstand. Der Vorstand kann in begründeten Einzelfällen bestimmen, dass der Beitrag in anderer Form als durch Geldzahlung erbracht wird oder Beitragsleistungen stunden.
+
+§ 7 Organe des Vereins
+Organe des Vereins sind der Vorstand und die Mitgliederversammlung.
+
+§ 8 Vorstand
+(1) Der Vorstand besteht aus mindestens einem Mitglied. Über die Zahl der Vorstandsmitglieder entscheidet die Mitgliederversammlung bei der Bestellung des Vorstands.
+(2) $Vertretungsoptionen$
+(3) Der Vorstand wird von der Mitgliederversammlung auf die Dauer von $Vorstandsdauer$, gerechnet von der Wahl an, gewählt. Er bleibt bis zur Wahl eines neuen Vorstandes im Amt. Scheidet ein Mitglied des Vorstands während der Amtsperiode aus, so können die verbleibenden Vorstandsmitglieder ein Ersatzmitglied für die restliche Amtsdauer des Ausgeschiedenen benennen.
+(4) Der Vorstand ist für alle Angelegenheiten des Vereins zuständig, soweit sie nicht durch die Satzung oder zwingende gesetzliche Vorschriften einem anderen Vereinsorgan zugewiesen sind. Der Vorstand führt die laufenden Geschäfte des Vereins. Er hat dabei vor allem folgende Aufgaben:
+a) Vorbereitung der Mitgliederversammlungen und Aufstellung der Tagesordnungen;
+b) Einberufung der Mitgliederversammlung;
+c) Ausführung der Beschlüsse der Mitgliederversammlung;
+d) Unterrichtung der Mitglieder über die Vereinsangelegenheiten, insbesondere durch Erstellung eines Jahresberichtes.
+
+(5) Der Vorstand fasst seine Beschlüsse im Allgemeinen in Vorstandssitzungen, die vom 1. Vorsitzenden, bei dessen Verhinderung vom 2. Vorsitzenden, schriftlich, fernmündlich, oder per e-Mail einzuberufen sind. Eine Mitteilung der Tagesordnung ist nicht erforderlich. Eine Einberufungsfrist von $Vorstandsfrist$ ist einzuhalten. Der Vorstand ist beschlussfähig, wenn $Vorstandbeschlussfaehigkeit$ mindestens zwei Vorstandsmitglieder anwesend sind. Bei der Beschlussfassung entscheidet $VorstandbesBeschlussMehrheit$ die Mehrheit der abgegebenen gültigen Stimmen. $VorstandsTieBreaker$. Ein Vorstandsbeschluss kann auf schriftlichem Wege gefasst werden, wenn alle Vorstandsmitglieder ihre Zustimmung zu der zu beschließenden Regelung erklären. Über die Beschlüsse des Vorstands ist ein Protokoll zu führen, das durch den Sitzungsleiter zu unterschreiben ist.
+
+§ 9 Mitgliederversammlung
+(1) Die Mitgliederversammlung ist oberstes Organ des Vereins. In der Mitgliederversammlung hat jedes Mitglied eine Stimme. $MitgliedsversammlungVertretung$
+(2) Die Mitgliederversammlung ist für folgende Aufgaben zuständig:
+a) Entgegennahme und Genehmigung des Jahresberichts des Vorstands;
+b) Entlastung des Vorstandes und der Kassenprüfer;
+c) Wahl und Abberufung der Mitglieder des Vorstandes und der Kassenprüfer;
+d) Festsetzung der Höhe der Jahresbeiträge, insbesondere des Mindestbeitrages;
+e) Beschlussfassung über die Beschwerde gegen die Ablehnung eines Aufnahmeantrages sowie die Berufung gegen einen Ausschließungsbeschluss durch den Vorstand;
+f) Ernennung von Ehrenmitgliedern;
+g) Beschlussfassung über grundlegende Entscheidungen für die Förderpolitik des Vereines.
+(3) Die Einberufung der Mitgliederversammlung erfolgt durch den ersten Vorsitzenden, bei dessen Verhinderung durch den zweiten Vorsitzenden. Die Einberufung muss mindestens zwei Wochen vor dem Tag der Versammlung unter Angabe der Tagesordnung schriftlich erfolgen. Die Frist beginnt mit dem auf die Absendung der Einberufung folgenden Tag. Eine außerordentliche Mitgliederversammlung muss einberufen werden, wenn ein Fünftel der Mitglieder unter Angabe der Gründe einen schriftlichen Antrag beim Vorstand stellt.
+(4) Längstens bis eine Woche vor dem Tag der Mitgliederversammlung kann jedes Mitglied beim Vorstand schriftlich die Ergänzung der Tagesordnung um weitere Angelegenheiten, nicht jedoch Satzungsänderungen, beantragen. Die Tagesordnung ist zu Beginn der Mitgliederversammlung durch den Versammlungsleiter entsprechend zu ergänzen. Über Anträge auf Ergänzung der Tagesordnung, die erst in der Mitgliederversammlung gestellt werden, beschließt die Mitgliederversammlung. Zur Annahme des Antrags ist eine Mehrheit von drei Vierteln der abgegebenen gültigen Stimmen erforderlich.
+(5) Jede ordnungsgemäß geladene Mitgliederversammlung ist beschlussfähig. Die Mitgliederversammlung fasst Beschlüsse mit einfacher Mehrheit der abgegebenen Stimmen, soweit durch Gesetz oder diese Satzung keine abweichenden Mehrheiten vorgeschrieben sind. Enthaltungen werden als nicht erschienene Stimmen gewertet. Bei Stimmengleichheit entscheidet die Stimme des Versammlungsleiters. Bei Wahlen entscheidet bei Stimmengleichheit das Los. Die Abstimmungsart bestimmt der Versammlungsleiter. Bei Wahlen ist schriftlich und geheim abzustimmen, soweit nicht die Mitgliederversammlung eine andere Art der Abstimmung beschließt.
+(6) Über jede Mitgliederversammlung ist ein Protokoll zu errichten, das vom jeweiligen Versammlungsleiter und dem Protokollführer zu unterzeichnen ist.
+
+§ 10 Geschäftsjahr, Rechnungsprüfer
+(1) Das Geschäftsjahr ist das Kalenderjahr.
+(2) Die Kasse des Vereins wird jedes Jahr durch einen oder mehrere von der Mitgliederversammlung gewählte Kassenprüfer geprüft. Die Kassenprüfer prüfen, ob die Verwendung der Vereinsmittel den Haushaltsansätzen entsprach und die Buchführung des Vereins ordnungsgemäß erfolgte. Hierüber haben die Kassenprüfer der Mitgliederversammlung Bericht zu erstatten.
+
+§ 11 Satzungsänderungen, Vermögensanfall bei Auflösung
+(1) Eine geplante Änderung der Satzung muss als Tagesordnungspunkt in der Einladung der Mitgliederversammlung bekannt gemacht werden. Über die Auflösung des Vereins kann nur in einer eigens mit dieser Tagesordnung einberufenen Mitgliederversammlung beschlossen werden. Beschlüsse über Satzungsänderungen oder die Auflösung des Vereins bedürfen einer Mehrheit von drei Vierteln der abgegebenen gültigen Stimmen.
+(2) Jede Satzungsänderung ist dem zuständigen Finanzamt unter Übersendung der geänderten Satzung anzuzeigen. Änderungen oder Ergänzungen der Satzung, die von der zuständigen Registerbehörde oder vom Finanzamt vorgeschrieben werden, werden vom Vorstand umgesetzt und bedürfen keiner Beschlussfassung durch die Mitgliederversammlung. Sie sind den Mitgliedern spätestens mit der Einladung zur nächsten Mitgliederversammlung mitzuteilen.
+(3) Bei Auflösung des Vereins oder Wegfall des Zwecks des Vereins fällt das Vermögen des Vereins an $AndererVerein$ Der Anfallberechtigte hat das ihm anfallende Vermögen unmittelbar und ausschließlich für dessen gemeinnützige Vereinszwecke zu verwenden.
+Die Satzung wurde in der $Gruendungsversammlung$ersammlung vom $DatumGruendungsversammlung$ errichtet.
+$ListOfGruendungsmitglieder$
+
